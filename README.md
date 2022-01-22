@@ -1,10 +1,36 @@
-- 👋 Hi, I’m @richie1988
-- 👀 I’m interested in computer programming...
-- 🌱 I’m currently learning,just started my first course, as a programmer...
-- 💞️ I’m looking to collaborate on differents projects pleaase reach me out...
-- 📫 How to reach me richiekga on twitter,instgram...
+#!/bin/python3
 
-<!---
-richie1988/richie1988 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+import math
+import os
+import random
+import re
+import sys
+
+#
+# Complete the 'gradingStudents' function below.
+#
+# The function is expected to return an INTEGER_ARRAY.
+# The function accepts INTEGER_ARRAY grades as parameter.
+#
+
+def gradingStudents(grades):
+    # Write your code here
+    ones = 0
+
+if num >= 33 and ones in range(3,6):
+    fptr = open(os.environ['OUTPUT_PATH'], 'w')
+
+    grades_count = int(input().strip())
+
+    grades = [i]  (num - ones) * 5
+
+    for i, in range(grades_count):
+        grades_item = int(input().strip())
+        grades.append(grades_item)
+
+    result = gradingStudents(grades)
+
+    fptr.write('\n'.join(map(str, result)))
+    fptr.write('\n')
+
+    fptr.close()
