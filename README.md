@@ -3,34 +3,7 @@
 
 
 
-
-
-https://github.com/richie1988/richie1988/assets/97953658/c62fc15c-ea35-4223-a292-2ca3d25b5ab9
-
-
-
-
-function createProfile(name, age, location, interests, experience, lookingFor) {
-    return {
-        name: name,
-        age: age,
-        location: location,
-        interests: interests,
-        experience: experience,
-        lookingFor: lookingFor
-    };
-}
-
-const richardProfile = createProfile(
-    "Richard Sikaonga",
-    34,
-    "Currently looking for new opportunities around the world",
-    ["Exploring", "Coding"],
-    ["JavaScript", "HTML", "CSS", "React", "Ruby", "SQL"],
-    "Currently looking for new opportunities around the world"
-);
-
-console.log(richardProfile);
+![gallery](https://github.com/richie1988/richie1988/assets/97953658/de7cf01f-d29c-4eec-8fd4-529fed39e08e)
 
 
 - 🔭 I’m currently working on ...
