@@ -3,7 +3,7 @@
 
 
 
-                   ![gallery](https://github.com/richie1988/richie1988/assets/97953658/de7cf01f-d29c-4eec-8fd4-529fed39e08e)
+  ![gallery](https://github.com/richie1988/richie1988/assets/97953658/de7cf01f-d29c-4eec-8fd4-529fed39e08e)
 
 
 - 🔭 I’m currently working on ...
