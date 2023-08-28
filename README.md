@@ -1,6 +1,6 @@
 ### Hi there I'm Richard Sikaonga 👋
 
-![function createProfile(name, age, country, location, interests, languages, experience, lookingFor) { return { name, age, country, location, interests, languages, experience, lookingFor }; } const richardProfile (1)](https://github.com/richie1988/richie1988/assets/97953658/d06ddb72-62a5-429a-b9ad-a9e3e8c9bf9e)
+![Uploading gallery (1).gif…]()
 
 
 ### A little bit more about me
