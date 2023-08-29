@@ -33,7 +33,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=Campstone-Project)](https://github.com/richie1988/Campstone-Project)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=Campstone-Project)](https://github.com/richie1988/Campstone-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=stockcounter-app)](https://github.com/richie1988/stockcounter-app.git)
 
 
 ### Profiles vistors
