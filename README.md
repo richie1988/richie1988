@@ -23,7 +23,7 @@
 - ⚡ Fun fact: i play video Game and listen to music.
 
 ### Coding Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richie1988&size_weight=0.5&count_weight=0.5&theme=radical)
 
 ### Github Stats
 
