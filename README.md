@@ -24,8 +24,7 @@
 
 ### Coding Stats
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richie1988&layout=pie)](https://github.com/richie1988/github-readme-stats)
 ### Github Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richie1988&show_icons=true&theme=radical)
