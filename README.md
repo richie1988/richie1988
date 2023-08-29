@@ -29,6 +29,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richie1988&show_icons=true&theme=radical)
 
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=richie1988)](https://github.com/richie1988/stockcounter-app)
+
+
+
 ### Profiles vistors
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=richie1988.richie1988&left_color=green&right_color=red)
