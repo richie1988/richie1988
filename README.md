@@ -38,4 +38,4 @@
 
 ### Profiles vistors
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=richie1988.richie1988&left_color=green&right_color=red)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=richie1988.visitor-badge)
