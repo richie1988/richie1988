@@ -31,7 +31,7 @@
 
 ### My Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=github-readme-stats)](git@github.com:richie1988/stockcounter-app.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=github-readme-stats)](https://github.com/richie1988/stockcounter-app.git)
 
 ### Profiles vistors
 
