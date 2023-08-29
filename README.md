@@ -2,8 +2,8 @@
 
 ### A little bit more about me
 
+![function createProfile(name, age, country, location, interests, languages, experience, lookingFor) { return { name, age, country, location, interests, languages, experience, lookingFor }; } const ](https://github.com/richie1988/richie1988/assets/97953658/56a3e171-b781-46a4-81fb-874d5f1a89da)
 
-![function createProfile(name, age, country, location, interests, languages, experience, lookingFor) { return { name, age, country, location, interests, languages, experience, lookingFor }; } const richardProfile = c](https://github.com/richie1988/richie1988/assets/97953658/5ec8955b-a304-4530-8352-059c0369afd3)
 
 <!--->
 
@@ -20,5 +20,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- ![function createProfile(name, age, country, location, interests, languages, experience, lookingFor) { return { name, age, country, location, interests, languages, experience, lookingFor }; } const richardProfile (2)](https://github.com/richie1988/richie1988/assets/97953658/c04587f1-ac74-4b9c-ae68-9bf4b9067a96)
--->
+![function createProfile(name, age, country, location, interests, languages, experience, lookingFor) { return { name, age, country, location, interests, languages, experience, lookingFor }; } const richardProfile (2)](https://github.com/richie1988/richie1988/assets/97953658/c04587f1-ac74-4b9c-ae68-9bf4b9067a96)
