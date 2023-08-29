@@ -39,3 +39,4 @@
 ### Profiles vistors
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=richie1988.visitor-badge&left_text=MyPageVisitors)
+![Visitor Badge](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://api.countapi.xyz/hit/richie1988/TodolistBestpractice)
