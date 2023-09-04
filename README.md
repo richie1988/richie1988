@@ -22,8 +22,9 @@
 
   ### Contact Me
   <div>
-   <a hre="https://twitter.com/RichieSikaonga">
-    <img src="https://twitter.com/RichieSikaonga"/>
+   <a href="https://twitter.com/RichieSikaonga">
+    <img src="![image](https://github.com/richie1988/richie1988/assets/97953658/f9eb1851-cdb8-4b51-a295-92118aea5520)
+"/>
    </a>
   </div>
 
