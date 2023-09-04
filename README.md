@@ -23,17 +23,16 @@
   ### Contact Me
   <div>
    <a href="https://twitter.com/RichieSikaonga">
-    <img src=""/>
+    <img src="https://icons8.com/icon/ClbD5JTFM7FA/twitterx"/>
    </a>
    <a href="https://www.instagram.com/richiesik/">
-    <img src=""/>
+    <img src="https://icons8.com/icon/32323/instagram"/>
    </a>
    <a href="https://www.linkedin.com/in/richard-sikaonga-039940275/">
-    <img src=""/>
+    <img src="https://icons8.com/icon/13930/linkedin"/>
    </a>
    <a href="richiessikaonga@icloud.com">
-    <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FRichieSikaonga
-"/>
+    <img src="https://icons8.com/icon/80334/icloud"/>
    </a>
   </div>
 
