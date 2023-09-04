@@ -27,9 +27,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richie1988&size_weight=0.5&count_weight=0.5&theme=tokyonight)
 
 ### Github Stats
-![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com?username=richie1988&show_icons=true&theme=tokyonight)
+![Richard GitHub stats](https://github-readme-streak-stats..app/api?username=richie1988&show_icons=true&theme=tokyonight)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richie1988&show_icons=true&theme=tokyonight)
+![Richard GitHub stats](https://github-readme-stats.vercel.app/api?username=richie1988&show_icons=true&theme=tokyonight)
 
 ### My Projects
 
