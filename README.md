@@ -21,18 +21,18 @@
 - ⚡ Fun fact: I play video games and like to travel.
 
   ### Contact Me
-  <div>
+  <div align="center">
    <a href="https://twitter.com/RichieSikaonga">
-    <img src="https://icons8.com/icon/ClbD5JTFM7FA/twitterx"/>
+    <img src="images/11053969_x_logo_twitter_new_brand_icon.svg" width="60px"/>
    </a>
    <a href="https://www.instagram.com/richiesik/">
-    <img src="https://icons8.com/icon/32323/instagram"/>
+    <img src="images/4102579_applications_instagram_media_social_icon.svg" width="60px"/>
    </a>
    <a href="https://www.linkedin.com/in/richard-sikaonga-039940275/">
-    <img src="https://icons8.com/icon/13930/linkedin"/>
+    <img src="images/4362961_linkedin_social media_icon.svg" width="60px" width="60px"/>
    </a>
    <a href="richiessikaonga@icloud.com">
-    <img src="https://icons8.com/icon/80334/icloud"/>
+    <img src="images/3069721_circle_cloud_icloud_round%20icon_icon.svg" width="60px"/>
    </a>
   </div>
 
