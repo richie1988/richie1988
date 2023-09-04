@@ -23,8 +23,7 @@
   ### Contact Me
   <div>
    <a hre="https://twitter.com/RichieSikaonga">
-    <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FRichieSikaonga
-"/>
+    <img src="https://twitter.com/RichieSikaonga"/>
    </a>
   </div>
 
