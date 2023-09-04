@@ -21,7 +21,7 @@
 - ⚡ Fun fact: I play video games and like to travel.
 
   ### Contact Me
-  <div align="center">
+  <div>
    <a href="https://twitter.com/RichieSikaonga">
     <img src="images/11053969_x_logo_twitter_new_brand_icon.svg" width="60px"/>
    </a>
