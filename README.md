@@ -21,10 +21,11 @@
 - ⚡ Fun fact: I play video games and like to travel.
 
   ### Contact Me
-  Badge](https://img.shields.io/twitter/url=https%3A%2F%2Ftwitter.com%2FRichieSikaongastyle=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+  <a>
+  [![Top Langs](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FRichieSikaonga)]</a>
+  ![Top Langs](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FRichieSikaonga
+)
 
-
-  
 ### Coding Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richie1988&size_weight=0.5&count_weight=0.5&theme=radical)
 
