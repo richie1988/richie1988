@@ -21,8 +21,8 @@
 - ⚡ Fun fact: I play video games and like to travel.
 
   ### Contact Me
-  [![GraphQL Badge]https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FRichieSikaonga
-](#)
+  Badge](https://img.shields.io/twitter/url=https%3A%2F%2Ftwitter.com%2FRichieSikaongastyle=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+
 
   
 ### Coding Stats
