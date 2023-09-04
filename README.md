@@ -12,16 +12,16 @@
  [![Vscode Badge](https://img.shields.io/badge/-Vscode-007acc?style=for-the-badge&labelColor=black&logo=vscode&logoColor=007acc)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on my cooming projects.
-- 🤔 I’m looking for help with 
+- 🔭 I’m currently working on my Gaming app
+- 🌱 I’m currently learning DEVOPS
+- 👯 I’m looking to collaborate on my upcoming projects.
 - 💬 Ask me about programming
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: i play video Game and listen to music.
+- 📫 How to reach me: richiessikaonga@outlook.com/richiessikaonga@icloud.com
+- 😄 Pronouns: software program is still an inanimate object, so we should just use it
+- ⚡ Fun fact: I play video games and like to travel.
 
+  ### Contact Me
+  https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FRichieSikaonga
 ### Coding Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richie1988&size_weight=0.5&count_weight=0.5&theme=radical)
 
@@ -35,7 +35,3 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=stockcounter-app)](https://github.com/richie1988/stockcounter-app.git)
 
-
-### Profiles vistors
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=richie1988.visitor-badge&left_text=MyPageVisitors)
