@@ -44,16 +44,28 @@
 ![Richard GitHub stats](https://github-readme-stats.vercel.app/api?username=richie1988&show_icons=true&theme=tokyonight)
 
 ### My Projects
-<div align="flex" width="auto" height="auto">
- 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=My_Bookstore_App)](https://github.com/richie1988/My_Bookstore_App)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=SpaceTravelers-Hub)](https://github.com/richie1988/SpaceTravelers-Hub)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=SuperMario)](https://github.com/richie1988/SuperMario)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=Campstone-Project)](https://github.com/richie1988/Campstone-Project)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=stockcounter-app)](https://github.com/richie1988/stockcounter-app.git)
+<div align="center">
+  <div style="display: flex; justify-content: space-around;">
+    <a href="https://github.com/richie1988/My_Bookstore_App">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=My_Bookstore_App" alt="My Bookstore App" />
+    </a>
+    <a href="https://github.com/richie1988/SpaceTravelers-Hub">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=SpaceTravelers-Hub" alt="SpaceTravelers Hub" />
+    </a>
+  </div>
+  <div style="display: flex; justify-content: space-around;">
+    <a href="https://github.com/richie1988/SuperMario">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=SuperMario" alt="SuperMario" />
+    </a>
+    <a href="https://github.com/richie1988/Campstone-Project">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=Campstone-Project" alt="Campstone Project" />
+    </a>
+  </div>
+  <div style="display: flex; justify-content: space-around;">
+    <a href="https://github.com/richie1988/stockcounter-app.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=stockcounter-app" alt="Stockcounter App" />
+    </a>
+  </div>
 </div>
 
