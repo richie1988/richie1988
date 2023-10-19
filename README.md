@@ -67,7 +67,7 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=stockcounter-app" alt="Stockcounter App" />
     </a>
    <a href="https://github.com/richie1988/Math-App">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=richie1988/Math-App" alt="richie1988/Math-App" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=Math-App" alt="Math-App" />
     </a>
   </div>
 </div>
