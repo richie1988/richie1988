@@ -44,13 +44,15 @@
 ![Richard GitHub stats](https://github-readme-stats.vercel.app/api?username=richie1988&show_icons=true&theme=tokyonight)
 
 ### My Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=Campstone-Project)](https://github.com/richie1988/My_Bookstore_App)
+<div align="center">
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=My_Bookstore_App)](https://github.com/richie1988/My_Bookstore_App)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=Campstone-Project)](https://github.com/richie1988/SpaceTravelers-Hub)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=SpaceTravelers-Hub)](https://github.com/richie1988/SpaceTravelers-Hub)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=Campstone-Project)](https://github.com/richie1988/SuperMario)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=SuperMario)](https://github.com/richie1988/SuperMario)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=Campstone-Project)](https://github.com/richie1988/Campstone-Project)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=stockcounter-app)](https://github.com/richie1988/stockcounter-app.git)
+</div>
 
