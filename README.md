@@ -67,5 +67,10 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=stockcounter-app" alt="Stockcounter App" />
     </a>
   </div>
+ <div style="display: flex; justify-content: space-around;">
+    <a href="https://github.com/richie1988/My_Bookstore_App">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=My_Bookstore_App" alt="My_Bookstore_App" />
+    </a>
+  </div>
 </div>
 
