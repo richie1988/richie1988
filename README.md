@@ -13,7 +13,7 @@
 
 
 - 🔭 I’m currently working on my Gaming app
-- 🌱 I’m currently learning DEVOPS
+- 🌱 I’m currently learning SQL
 - 👯 I’m looking to collaborate on my upcoming projects.
 - 💬 Ask me about programming
 - 📫 How to reach me: richiessikaonga@outlook.com/richiessikaonga@icloud.com
@@ -23,16 +23,16 @@
   ### Contact Me
   <div>
    <a href="https://twitter.com/RichieSikaonga">
-    <img src="images/11053969_x_logo_twitter_new_brand_icon.svg" width="60px"/>
+    <img src="images/11053969_x_logo_twitter_new_brand_icon.svg" width="40px"/>
    </a>
    <a href="https://www.instagram.com/richiesik/">
-    <img src="images/4102579_applications_instagram_media_social_icon.svg" width="60px"/>
+    <img src="images/4102579_applications_instagram_media_social_icon.svg" width="40px"/>
    </a>
    <a href="https://www.linkedin.com/in/richard-sikaonga-039940275/">
-    <img src="images/4362961_linkedin_social media_icon.svg" width="60px" width="60px"/>
+    <img src="images/4362961_linkedin_social media_icon.svg" width="60px" width="40px"/>
    </a>
    <a href="richiessikaonga@icloud.com">
-    <img src="images/3069721_circle_cloud_icloud_round%20icon_icon.svg" width="60px"/>
+    <img src="images/3069721_circle_cloud_icloud_round%20icon_icon.svg" width="40px"/>
    </a>
   </div>
 
