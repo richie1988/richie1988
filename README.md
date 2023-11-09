@@ -7,8 +7,6 @@
  <img align="right" src="https://github.com/richie1988/richie1988/assets/97953658/e8d2bca5-f370-42b5-897c-df546942c65d"/>
 </div>
 
-<br/>
-
 <div align="center">
  
  🔭 I’m currently working on **a chat app**
