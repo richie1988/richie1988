@@ -4,11 +4,12 @@
 <img src="https://github.com/richie1988/richie1988/assets/97953658/e8d2bca5-f370-42b5-897c-df546942c65d"  width="100%"/>
 
 <!--->
+<div align-items="center" height="auto" width="100%">
+ <img src="https://github.com/richie1988/richie1988/assets/97953658/d1b74a5b-c43d-4a36-9eb6-305acc7a7366"  width="100%"/>
+</div>
 
  ### Contact Me
-
- 
-  <div align-items="center">
+  <div >
    <a href="https://twitter.com/RichieSikaonga">
     <img src="images/11053969_x_logo_twitter_new_brand_icon.svg" width="40px"/>
    </a>
@@ -22,8 +23,6 @@
     <img src="images/3069721_circle_cloud_icloud_round%20icon_icon.svg" width="40px"/>
    </a>
   </div>
-
-  
 
 - 🔭 I’m currently working on my Gaming app
 - 🌱 I’m currently learning SQL
