@@ -2,7 +2,7 @@
 
 
 
-                                   ![gallery (2)](https://github.com/richie1988/richie1988/assets/97953658/ec04f314-a380-47d7-9a3a-e87ef977c4a2&width="100%")
+<div width="100%">![gallery (2)](https://github.com/richie1988/richie1988/assets/97953658/ec04f314-a380-47d7-9a3a-e87ef977c4a2&width="100%")</div>
 
 <!--->
 
