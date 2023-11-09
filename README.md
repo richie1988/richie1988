@@ -41,16 +41,14 @@
 
 ### Github Stats
 
-<a href="https://github.com/richie1988/github-readme-stats">
- ![Richard GitHub stats](https://github-readme-stats.vercel.app/api?username=richie1988&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richie1988&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richie1988&&size_weight=0.5&count_weight=0.5)
-</a>
-<a href="https://github.com/richie198/convoychat">
 ![Richard GitHub stats](https://github-readme-stats.vercel.app/api?username=richie1988&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richie1988&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richie1988&&size_weight=0.5&count_weight=0.5)
-</a>
+
+![Richard GitHub stats](https://github-readme-stats.vercel.app/api?username=richie1988&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richie1988&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richie1988&&size_weight=0.5&count_weight=0.5)
+
 
 ### My Projects
 
