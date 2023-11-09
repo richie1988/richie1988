@@ -4,7 +4,9 @@
 <img src="https://github.com/richie1988/richie1988/assets/97953658/e8d2bca5-f370-42b5-897c-df546942c65d"  width="100%"/>
 
 <!--->
-<div align-items="center" height="auto" width="100%" border="2px solid" margin="30px">
+
+
+<div>
  <img src="https://github.com/richie1988/richie1988/assets/97953658/d1b74a5b-c43d-4a36-9eb6-305acc7a7366"  width="100%"/>
 </div>
 
