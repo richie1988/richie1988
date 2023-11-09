@@ -3,7 +3,9 @@
 ### A little bit more about me
 
 
-![function createProfile(name, age, country, location, interests, languages, experience, lookingFor) { return { name, age, country, location, interests, languages, experience, lookingFor }; } const ](https://github.com/richie1988/richie1988/assets/97953658/56a3e171-b781-46a4-81fb-874d5f1a89da)
+<div align-items="center" width="100%" height="auto">
+ ![gallery](https://github.com/richie1988/richie1988/assets/97953658/26bdc874-d034-4115-a360-3c5fcbb846db)
+</div>
 
 
 <!--->
