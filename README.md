@@ -38,23 +38,18 @@
 
 ### Coding Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richie1988&size_weight=0.5&count_weight=0.5&theme=tokyonight)
-<a href="https://github.com/richie1988/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/richie1988/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=convoychat" />
-</a>
 
 ### Github Stats
 
+<a href="https://github.com/richie1988/github-readme-stats">
+ ![Richard GitHub stats](https://github-readme-stats.vercel.app/api?username=richie1988&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richie1988&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richie1988&&size_weight=0.5&count_weight=0.5)
+</a>
+<a href="https://github.com/richie198/convoychat">
 ![Richard GitHub stats](https://github-readme-stats.vercel.app/api?username=richie1988&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richie1988&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richie1988&&size_weight=0.5&count_weight=0.5)
-<a href="https://github.com/richie1988/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=richie198" />
-</a>
-<a href="https://github.com/richie198/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=richie198&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ### My Projects
