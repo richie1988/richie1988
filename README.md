@@ -5,20 +5,7 @@
 
 <!--->
 
-
-### Always Like to Code
-<img src="https://github.com/richie1988/richie1988/assets/97953658/c998dd22-8f7b-4417-b731-5d6a80e23b85"  width="100%"/>
-
-
-- 🔭 I’m currently working on my Gaming app
-- 🌱 I’m currently learning SQL
-- 👯 I’m looking to collaborate on my upcoming projects.
-- 💬 Ask me about programming
-- 📫 How to reach me: richiessikaonga@outlook.com/richiessikaonga@icloud.com
-- 😄 Pronouns: software program is still an inanimate object, so we should just use it
-- ⚡ Fun fact: I play video games and like to travel.
-
-  ### Contact Me
+ ### Contact Me
   <div>
    <a href="https://twitter.com/RichieSikaonga">
     <img src="images/11053969_x_logo_twitter_new_brand_icon.svg" width="40px"/>
@@ -33,6 +20,17 @@
     <img src="images/3069721_circle_cloud_icloud_round%20icon_icon.svg" width="40px"/>
    </a>
   </div>
+
+- 🔭 I’m currently working on my Gaming app
+- 🌱 I’m currently learning SQL
+- 👯 I’m looking to collaborate on my upcoming projects.
+- 💬 Ask me about programming
+- 📫 How to reach me: richiessikaonga@outlook.com/richiessikaonga@icloud.com
+- 😄 Pronouns: software program is still an inanimate object, so we should just use it
+- ⚡ Fun fact: I play video games and like to travel.
+
+  <img src="https://github.com/richie1988/richie1988/assets/97953658/c998dd22-8f7b-4417-b731-5d6a80e23b85"  width="100%"/>
+
 
 ### Coding Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richie1988&layout=compact&theme=tokyonight)
