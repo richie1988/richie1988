@@ -1,74 +1,74 @@
-### Hi there I'm Richard Sikaonga 👋
+<img align="right" src="https://github.com/richie1988/richie1988/assets/97953658/e8d2bca5-f370-42b5-897c-df546942c65d"/>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Richard+Sikaonga!;" />
+</h1>
 
-<img src="https://github.com/richie1988/richie1988/assets/97953658/e8d2bca5-f370-42b5-897c-df546942c65d"  width="100%"/>
+<h3 align="center">A passionate software developer from Zambia 🇨🇦</h3>
 
-<!--->
-
-
-<div>
- <img src="https://github.com/richie1988/richie1988/assets/97953658/d1b74a5b-c43d-4a36-9eb6-305acc7a7366"  width="100%"/>
-</div>
-
- ### Contact Me
-  <div >
-   <a href="https://twitter.com/RichieSikaonga">
-    <img src="images/11053969_x_logo_twitter_new_brand_icon.svg" width="40px"/>
-   </a>
-   <a href="https://www.instagram.com/richiesik/">
-    <img src="images/4102579_applications_instagram_media_social_icon.svg" width="40px"/>
-   </a>
-   <a href="https://www.linkedin.com/in/richard-sikaonga-039940275/">
-    <img src="images/4362961_linkedin_social media_icon.svg"  width="40px"/>
-   </a>
-   <a href="richiessikaonga@icloud.com">
-    <img src="images/3069721_circle_cloud_icloud_round%20icon_icon.svg" width="40px"/>
-   </a>
-  </div>
-
-- 🔭 I’m currently working on my Gaming app
-- 🌱 I’m currently learning SQL
-- 👯 I’m looking to collaborate on my upcoming projects.
-- 💬 Ask me about programming
-- 📫 How to reach me: richiessikaonga@outlook.com/richiessikaonga@icloud.com
-- 😄 Pronouns: software program is still an inanimate object, so we should just use it
-- ⚡ Fun fact: I play video games and like to travel.
-
-<!--->
-
-### Coding Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richie1988&layout=compact&theme=tokyonight)
-
-### Github Stats
-
-![Richard GitHub stats](https://github-readme-stats.vercel.app/api?username=richie1988&show_icons=true&theme=tokyonight)
-
-### My Projects
+<br/>
 
 <div align="center">
-  <div style="display: flex; justify-content: space-around;">
-    <a href="https://github.com/richie1988/My_Bookstore_App">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=My_Bookstore_App" alt="My Bookstore App" />
-    </a>
-    <a href="https://github.com/richie1988/SpaceTravelers-Hub">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=SpaceTravelers-Hub" alt="SpaceTravelers Hub" />
-    </a>
-  </div>
-  <div style="display: flex; justify-content: space-around;">
-    <a href="https://github.com/richie1988/SuperMario">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=SuperMario" alt="SuperMario" />
-    </a>
-    <a href="https://github.com/richie1988/Campstone-Project">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=Campstone-Project" alt="Campstone Project" />
-    </a>
-  </div>
-  <div style="display: flex; justify-content: space-around;">
-    <a href="https://github.com/richie1988/stockcounter-app.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=stockcounter-app" alt="Stockcounter App" />
-    </a>
-   <a href="https://github.com/richie1988/Math-App">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=Math-App" alt="Math-App" />
-    </a>
-  </div>
+ 
+ 🔭 I’m currently working on **a chat app**
+ 
+ 🌱 I’m currently learning **Redis, Tailwind, and React Native Expo**
+
+ 💬 Ask me about **Node.js, React, Ruby, PostgreSQL... or anything [here](https://github.com/richie1988/My-Portfolio/issues)**
+
+ ⚡ Fun fact **NASA computers were hijacked by a 15-year-old, resulting in a 21-day halt.**
+ 
+ </div>
+ 
+<div align="center"> 
+  <a href="richiessikaonga@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/richard-sikaonga-039940275/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://richie1988.github.io/My-Portfolio/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
 </div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/richie1988/richie1988/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=richie1988&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=richie1988&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-richie1988.vercel.app/api/top-langs/?username=richie1988&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+<hr/>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
+
+<br/>
 
