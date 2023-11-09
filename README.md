@@ -1,10 +1,11 @@
-<div align="center" width="100%">
- <img align="right" src="https://github.com/richie1988/richie1988/assets/97953658/e8d2bca5-f370-42b5-897c-df546942c65d"/>
-</div>
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Richard+Sikaonga!;" />
 </div>
+
 <h3 align="center">A passionate software developer from Zambia</h3>
+<div align="center" width="100%">
+ <img align="right" src="https://github.com/richie1988/richie1988/assets/97953658/e8d2bca5-f370-42b5-897c-df546942c65d"/>
+</div>
 
 <br/>
 
