@@ -3,8 +3,10 @@
 
 
 ![gallery (2)](https://github.com/richie1988/richie1988/assets/97953658/ec04f314-a380-47d7-9a3a-e87ef977c4a2&width="100%")
+![gallery (3)](https://github.com/richie1988/richie1988/assets/97953658/e8d2bca5-f370-42b5-897c-df546942c65d)
 
 <!--->
+
 
 ![gallery (2)](https://github.com/richie1988/richie1988/assets/97953658/3e368938-1b4c-4700-8a7e-e731f8115d09)
  [![Vscode Badge](https://img.shields.io/badge/-Vscode-007acc?style=for-the-badge&labelColor=black&logo=vscode&logoColor=007acc)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
