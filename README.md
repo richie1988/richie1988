@@ -2,8 +2,7 @@
 
 ### A little bit more about me
 
-                      
-![gallery](https://github.com/richie1988/richie1988/assets/97953658/1dcdeae5-4424-44b3-bb09-27f8641f0039)
+                      ![gallery (1)](https://github.com/richie1988/richie1988/assets/97953658/930c8d7a-4ccc-4947-8ee4-f2d6dddb3d78)
 
 <!--->
 
