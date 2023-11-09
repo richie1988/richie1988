@@ -6,6 +6,8 @@
 <!--->
 
  ### Contact Me
+
+ 
   <div align-items="center">
    <a href="https://twitter.com/RichieSikaonga">
     <img src="images/11053969_x_logo_twitter_new_brand_icon.svg" width="40px"/>
@@ -21,6 +23,8 @@
    </a>
   </div>
 
+  
+
 - 🔭 I’m currently working on my Gaming app
 - 🌱 I’m currently learning SQL
 - 👯 I’m looking to collaborate on my upcoming projects.
@@ -31,7 +35,8 @@
 
 <!--->
 
-  <img src="https://github.com/richie1988/richie1988/assets/97953658/c998dd22-8f7b-4417-b731-5d6a80e23b85"  width="100%"/>
+
+<img src="https://github.com/richie1988/richie1988/assets/97953658/d1b74a5b-c43d-4a36-9eb6-305acc7a7366"  width="100%"/>
 
 
 ### Coding Stats
