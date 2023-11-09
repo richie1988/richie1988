@@ -36,10 +36,6 @@
 
 <!--->
 
-
-<img src="https://github.com/richie1988/richie1988/assets/97953658/d1b74a5b-c43d-4a36-9eb6-305acc7a7366"  width="100%"/>
-
-
 ### Coding Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richie1988&layout=compact&theme=tokyonight)
 
