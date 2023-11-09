@@ -4,7 +4,7 @@
 
 
 <div align-items="center" width="100%" height="auto">
- ![gallery](https://github.com/richie1988/richie1988/assets/97953658/26bdc874-d034-4115-a360-3c5fcbb846db)
+ <img src="![gallery](https://github.com/richie1988/richie1988/assets/97953658/26bdc874-d034-4115-a360-3c5fcbb846db)"/>
 </div>
 
 
