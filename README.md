@@ -38,6 +38,12 @@
 
 ### Coding Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richie1988&size_weight=0.5&count_weight=0.5&theme=tokyonight)
+<a href="https://github.com/richie1988/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/richie1988/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=convoychat" />
+</a>
 
 ### Github Stats
 
