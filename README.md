@@ -42,10 +42,7 @@
 ### Github Stats
 
 ![Richard GitHub stats](https://github-readme-stats.vercel.app/api?username=richie1988&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richie1988&layout=compact)
-
-![Richard GitHub stats](https://github-readme-stats.vercel.app/api?username=richie1988&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richie1988&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richie1988&layout=compact&theme=tokyonight)
 
 ### My Projects
 
