@@ -61,7 +61,7 @@
 
 <br/>
 
-<h1 align-text="center">My Projects<h1>
+<h1 align="center">My Projects<h1>
 <div align="center">
   <div style="display: flex; justify-content: space-around;">
     <a href="https://github.com/richie1988/My_Bookstore_App">
