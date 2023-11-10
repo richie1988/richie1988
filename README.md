@@ -61,3 +61,32 @@
 
 <br/>
 
+### My Projects
+<div align="center">
+  <div style="display: flex; justify-content: space-around;">
+    <a href="https://github.com/richie1988/My_Bookstore_App">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=My_Bookstore_App" alt="My Bookstore App" />
+    </a>
+    <a href="https://github.com/richie1988/SpaceTravelers-Hub">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=SpaceTravelers-Hub" alt="SpaceTravelers Hub" />
+    </a>
+  </div>
+  <div style="display: flex; justify-content: space-around;">
+    <a href="https://github.com/richie1988/SuperMario">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=SuperMario" alt="SuperMario" />
+    </a>
+    <a href="https://github.com/richie1988/Campstone-Project">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=My-Portfolio" alt="Campstone Project" />
+    </a>
+  </div>
+  <div style="display: flex; justify-content: space-around;">
+    <a href="https://github.com/richie1988/stockcounter-app.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=Leader-Board" alt="Stockcounter App" />
+    </a>
+   <a href="https://github.com/richie1988/Math-App">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=Math-App" alt="Math-App" />
+    </a>
+  </div>
+</div>
+
+
