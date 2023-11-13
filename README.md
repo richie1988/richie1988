@@ -3,9 +3,8 @@
 </h1>
 <h3 align="center">A passionate software developer from Zambia</h3>
 <div  align="center">
- <img align="center" src="https://github.com/richie1988/richie1988/assets/97953658/e8d2bca5-f370-42b5-897c-df546942c65d"/>
+ <img align="center" src="https://github.com/richie1988/richie1988/assets/97953658/62f598d4-76a0-4398-a55d-0b6a3dc6b323"/>
 </div>
-
 <br/>
 <div align="center">
  
