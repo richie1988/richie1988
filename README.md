@@ -75,8 +75,8 @@
     <a href="https://github.com/richie1988/SuperMario">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=SuperMario" alt="SuperMario" />
     </a>
-    <a href="https://github.com/richie1988/Campstone-Project">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=My_PORTFOLIO_SITE " alt="My_PORTFOLIO_SITE " />
+    <a href="https://github.com/richie1988/My_PORTFOLIO_SITE">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=richie1988&repo=My_PORTFOLIO_SITE" alt="My_PORTFOLIO_SITE" />
     </a>
   </div>
   <div style="display: flex; justify-content: space-around;">
