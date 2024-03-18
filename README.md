@@ -8,7 +8,7 @@
 <br/>
 <div align="center">
  
- 🔭 I’m currently working on **a chat app**
+ 🔭 I’m currently working on **a Wine Store App**
  
  🌱 I’m currently learning **Redis, Tailwind, and React Native Expo**
 
